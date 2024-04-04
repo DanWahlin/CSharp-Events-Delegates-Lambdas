@@ -1,4 +1,6 @@
-Course pre-reqs:
+# Pluralsight Course: C# Events, Delegates and Lambdas
+
+## Course pre-reqs:
 
 - Basic programming experience
 - Understand core C# concepts
