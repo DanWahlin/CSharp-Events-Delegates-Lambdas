@@ -6,13 +6,16 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="(e) => IncrementCount(this, e)">Click me</button>
+<!-- @onclick="(e) => IncrementCount(this, e)" -->
 
 @code {
     private int currentCount = 0;
 
-    private void IncrementCount()
+    private void IncrementCount(object sender, MouseEventArgs e)
     {
+        Console.WriteLine(sender);
+        Console.WriteLine(e.Type);
         currentCount++;
     }
 }
