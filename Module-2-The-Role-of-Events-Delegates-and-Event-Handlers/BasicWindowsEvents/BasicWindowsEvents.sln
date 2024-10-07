@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-<<<<<<< HEAD:Module 2 - The Role of Events Delegates and Event Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
-VisualStudioVersion = 17.10.34928.147
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWindowsEvents", "BasicWindowsEvents.csproj", "{66440229-95C6-4A34-B9F1-E3B3B556A137}"
-=======
-VisualStudioVersion = 17.9.34701.34
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWindowsEvents", "BasicWindowsEvents.csproj", "{EE23D0C1-A3CF-427D-ABC4-30E8FFAB35F3}"
->>>>>>> d7647ce9a6bc6ba2bbda541cc17a913a04803615:Module-2-The-Role-of-Events-Delegates-and-Event-Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWindowsEvents", "BasicWindowsEvents.csproj", "{A1E97BD8-72CF-4178-BA5E-A1C3E690387A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,26 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD:Module 2 - The Role of Events Delegates and Event Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
-		{66440229-95C6-4A34-B9F1-E3B3B556A137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66440229-95C6-4A34-B9F1-E3B3B556A137}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66440229-95C6-4A34-B9F1-E3B3B556A137}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66440229-95C6-4A34-B9F1-E3B3B556A137}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{EE23D0C1-A3CF-427D-ABC4-30E8FFAB35F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE23D0C1-A3CF-427D-ABC4-30E8FFAB35F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE23D0C1-A3CF-427D-ABC4-30E8FFAB35F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE23D0C1-A3CF-427D-ABC4-30E8FFAB35F3}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> d7647ce9a6bc6ba2bbda541cc17a913a04803615:Module-2-The-Role-of-Events-Delegates-and-Event-Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
+		{A1E97BD8-72CF-4178-BA5E-A1C3E690387A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E97BD8-72CF-4178-BA5E-A1C3E690387A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E97BD8-72CF-4178-BA5E-A1C3E690387A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E97BD8-72CF-4178-BA5E-A1C3E690387A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-<<<<<<< HEAD:Module 2 - The Role of Events Delegates and Event Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
-		SolutionGuid = {FAD18320-BB9F-48D0-993F-FE44EE860FB4}
-=======
-		SolutionGuid = {FBA10844-D62F-4CA4-A64F-E1135E4450E1}
->>>>>>> d7647ce9a6bc6ba2bbda541cc17a913a04803615:Module-2-The-Role-of-Events-Delegates-and-Event-Handlers/BasicWindowsEvents/BasicWindowsEvents.sln
+		SolutionGuid = {D1119B49-B57A-484B-884D-CD9A5A07D883}
 	EndGlobalSection
 EndGlobal
